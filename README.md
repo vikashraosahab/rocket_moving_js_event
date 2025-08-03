@@ -5,5 +5,4 @@ It's only js practive project nothing special. But i will definitely used these 
 <img width="1366" height="768" alt="Screenshot from 2025-08-03 17-35-20" src="https://github.com/user-attachments/assets/a16c83b4-e551-405a-87da-3d9ed9e3c2fc" />
 <img width="1366" height="768" alt="Screenshot from 2025-08-03 17-35-16" src="https://github.com/user-attachments/assets/49e8c59f-4827-45b3-84d1-edac13fd419d" />
 <img width="1366" height="768" alt="Screenshot from 2025-08-03 17-35-13" src="https://github.com/user-attachments/assets/8d6f69ea-048b-4a59-925f-d8a4adba3d08" />
-<img width="1366" height="736" alt="Screenshot from 2025-01-05 06-01-18" src="https://github.com/user-attachments/assets/229bbbc7-8187-497f-a404-a4907a8b9ed0" />
 <img width="1366" height="768" alt="Screenshot from 2025-08-03 17-35-10" src="https://github.com/user-attachments/assets/208d8de9-c053-4968-b9a3-11c80528c08b" />
